@@ -93,4 +93,5 @@ Ultimately, this project supports better digital habits and fosters intentional 
 
 # TIME TRACKING
 
-![Image](https://github.com/user-attachments/assets/bd40cf15-8671-480e-a29e-38155902WEEKS)
+
+![Image](https://github.com/user-attachments/assets/bd40cf15-8671-480e-a29e-38155902f3e8)
